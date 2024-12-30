@@ -1,0 +1,34 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Styling for the heading */
+h1 {
+    color: #2c3e50;
+    font-size: 36px;
+    margin-top: 50px;
+}
+
+/* Styling for the image */
+img {
+    margin-top: 20px;
+    max-width: 80%; /* Limit the image width */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 10px; /* Optional: rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: shadow effect */
+}
+
+/* Optional: add some padding and a background for the content */
+.container {
+    padding: 20px;
+    background-color: #ffffff;
+    margin-top: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
